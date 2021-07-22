@@ -1,10 +1,10 @@
 # cusrso de gitlab 
 
-este curso esta hechos desde windows usando ubuntu nativamente y no como una maquina virtual y no se centra en el manejo de git, para eso esta el curso de git 
+este curso esta hecho desde windows usando ubuntu con wsl y no como una maquina virtual y no se centra en el manejo de git, para eso esta el curso de git 
 
 Debemos tener instalado git y ubuntu en windows 
 
-git lo descargamos de la pagina oficial y ubuntu del microsoft store, yo instale el 18.04 LTS  y lo dejamos en la carpeta por defecto, no cambiamos la ruta de instalación  
+git lo descargamos de la pagina oficial y ubuntu del microsoft store, trabajaremos con el 18.04 LTS  y lo dejamos en la carpeta por defecto, no cambiamos la ruta de instalación  
 
 abrimos ubuntu y ejecutamos el sudo apt get update
 despues el sudo apt get upgrade y nuevamente el sudo apt get update 
